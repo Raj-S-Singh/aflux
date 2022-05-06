@@ -6,4 +6,3 @@
 5. Deploy the aflux.war in Apache Tomcat and start tomcat
 
 For more details, please go to https://www.aflux.org
-As of now, I am not working on aFlux. But as soon as I find a research position for my post-doctoral phase, I will start working in full swing. If you are interested to collaborate on this topic, please send me an email via the contact form available on aFlux website. Tahnk you.
